@@ -1,4 +1,4 @@
-![Imagen de presentación](https://scontent.fmrd1-1.fna.fbcdn.net/v/t39.30808-6/514347196_10023363997762624_1120145683164920902_n.jpg "Fondo")
+![Imagen de presentación](https://github.com/AnubisPrime27/AnubisPrime27/blob/main/Portada%2001.svg "Fondo")
 
 # ***design and code*** 👋
 >Creative profile of a freelance Graphic Designer & Web Developer focused on building high-impact visual products and clean code.
@@ -29,12 +29,11 @@ ___
 ## Contact me privately, let's start with a great idea.
 
 *[AnubisPrime1][1]* DM and social network
-*[AnubisPrime2][2]* Sample 01
-*[AnubisPrime3][3]* Direct to WhatsApp Online Store
-
 [1]: https://anubisprime27.github.io/Sample002/
-[1]: https://anubisprime27.github.io/Sample001/
-[1]: https://wa.me/c/584120516027
+*[AnubisPrime2][2]* Sample 01
+[2]: https://anubisprime27.github.io/Sample001/
+*[AnubisPrime3][3]* Direct to WhatsApp Online Store
+[3]: https://wa.me/c/584120516027
 
 ___
 
