@@ -1,4 +1,4 @@
-![Imagen de presentación]([https://static.videezy.com/system/resources/thumbnails/000/009/587/original/rectangular-linear-grid-on-blue-vertical-gradient-lines-background.jpg] "Fondo")
+![Imagen de presentación](https://scontent.fmrd1-1.fna.fbcdn.net/v/t39.30808-6/514347196_10023363997762624_1120145683164920902_n.jpg "Fondo")
 
 # ***design and code*** 👋
 >Creative profile of a freelance Graphic Designer & Web Developer focused on building high-impact visual products and clean code.
