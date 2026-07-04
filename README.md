@@ -28,13 +28,19 @@ ___
 # Shall we create something great?
 ## Contact me privately, let's start with a great idea.
 
-*[AnubisPrime1][1]* DM and social network
-[1]: https://anubisprime27.github.io/Sample002/
+<kbd>[**DM and social network**](https://anubisprime27.github.io/Sample002/)</kbd>
+
+<kbd>[**Sample 01**](https://anubisprime27.github.io/Sample001/)</kbd>
+
+<kbd>[**Direct to WhatsApp Online Store**](https://wa.me/c/584120516027)</kbd>
+
+<!-- *[AnubisPrime1][1]* DM and social network
+[1]: 
 *[AnubisPrime2][2]* Sample 01
-[2]: https://anubisprime27.github.io/Sample001/
+[2]: 
 *[AnubisPrime3][3]* Direct to WhatsApp Online Store
 [3]: https://wa.me/c/584120516027
-
+-->
 ___
 
 <!--
